@@ -1,0 +1,13 @@
+ESDA_jx110
+
+Problem 1 All good                                20
+Problem 2 Fantstic                                20
+Problem 3                                         20
+        3 Surface area equation is incorrect;     -4
+        3 No explanation given for the plot       -4
+Problem 4 Good, concise code                      20
+Problem 5                                         20
+        5 Lat tracking causes rotating precip     -4
+        5 Precip mapped onto incorrect latitutdes -1
+
+    TOTAL                                         87
